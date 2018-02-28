@@ -39,3 +39,8 @@ $ rails server
 
 詳しくは、[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 を参考にしてください。
+
+```
+CarrierWaveというGemを加えることで画像アップローダーを
+railsコマンドより作成することができる。
+```
